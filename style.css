@@ -8,4 +8,13 @@
 .titulo2{
     font-family: 'Orbitron', sans-serif;
     font-size: 2rem; 
+    color: chartreuse;
+}
+.lista1{
+    font-family: 'Tourney', cursive;
+    font-size: 1rem;
+}
+body{
+    background-color: black;
+    color: white;
 }
