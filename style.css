@@ -1,0 +1,7 @@
+.titulo1{
+    background-color: red;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    font-family: 'Kaushan Script', cursive;
+}
