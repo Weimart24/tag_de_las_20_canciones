@@ -16,6 +16,14 @@
 .titulo3{
     font-family: 'Orbitron', sans-serif;
 }
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: deeppink;
+    color: white;
+}
 body{
     background-color: black;
     color: white;
