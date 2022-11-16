@@ -11,8 +11,10 @@
     color: chartreuse;
 }
 .lista1{
-    font-family: 'Tourney', cursive;
-    font-size: 1rem;
+    font-family: 'Syne Mono', monospace;
+}
+.titulo3{
+    font-family: 'Orbitron', sans-serif;
 }
 body{
     background-color: black;
