@@ -24,6 +24,29 @@ button{
     background-color: deeppink;
     color: white;
 }
+.table{
+    border-collapse: collapse;
+}
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+.table th:hover{
+    color: black;
+    background-color: white;
+}
+.table tr{
+    color: burlywood;
+    background-color: rgb(49, 48, 48);
+    font-family: 'Kaushan Script', cursive;
+}
+caption{
+    font-family: 'Orbitron', sans-serif;
+}
+.table td:hover{
+    color: white;
+    background-color: gray;
+}
 body{
     background-color: black;
     color: white;
